@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sunsai/nodejsspider/issues"
   },
-  "homepage": "https://github.com/sunsai/nodejsspider#readme"
+  "homepage": "https://github.com/sunsai/nodejsspider#readme",
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "superagent": "^1.7.2"
+  }
 }
