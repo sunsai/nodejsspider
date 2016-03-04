@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/dumpingHandler.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/service/WeinreClientCommands.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/messageHandler.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/MessageQueue.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/jsonBodyParser.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/service/WeinreTargetCommands.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/Channel.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/glob-watcher/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/cli.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/channelManager.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/weinre.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/extensionManager.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/serviceManager.js" />
+        <item url="file://$PROJECT_DIR$/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/HttpChannelHandler.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/dumpingHandler.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/service/WeinreClientCommands.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/messageHandler.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/MessageQueue.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/jsonBodyParser.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/service/WeinreTargetCommands.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/Channel.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/glob-watcher/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/cli.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/channelManager.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/weinre.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/extensionManager.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/serviceManager.js" />
+      <root url="file://$PROJECT_DIR$/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/weinre/lib-src/HttpChannelHandler.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
