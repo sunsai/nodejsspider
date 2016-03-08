@@ -1,0 +1,1 @@
+(function(){var r,t,a;t=require("mysql"),exports.data=function(){for(a=[],r=1;30>=r;r++)a.push(r);return a}.apply(this)}).call(this);
